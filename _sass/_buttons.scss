@@ -38,7 +38,9 @@
 
   &--block {
     display: block;
-    width: 100%;
+    width: 24px;
+    position: relative;
+    background-color: transparent;
 
     + .btn--block {
       margin-top: 0.25em;
