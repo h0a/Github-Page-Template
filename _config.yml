@@ -9,13 +9,14 @@ twitter_username: username
 github_username: username
 
 
-# allow search
+# turn on/off search option in the header
 search: false
 
 # Build settings
+minimal_mistakes_skin: dark   # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin2: air   # 2nd skin theme for switch button
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark #default
 
 # Outputting
 permalink: /:categories/:title/
