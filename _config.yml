@@ -15,6 +15,7 @@ search: false
 # Build settings
 minimal_mistakes_skin: dark   # default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 minimal_mistakes_skin2: air   # 2nd skin theme for switch button
+                              # steps for this skin toggle see last post of sohamsaha99 in https://github.com/mmistakes/minimal-mistakes/discussions/2033
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
