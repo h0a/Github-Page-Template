@@ -30,3 +30,10 @@ and
 test
 <i class="si si-researchgate si--white si-1x"></i>
 <i class="si si-researchgate si--white si-2x"></i>
+
+<div class="card-header">
+      <span class="d-inline-block">Cars waiting pedestrians cross the street</span>
+      <span class="d-inline-block btn float-right">
+          <i class="si si-researchgate si--white si-2x"></i>
+      </span>
+  </div>
