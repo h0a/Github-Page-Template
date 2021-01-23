@@ -14,7 +14,7 @@
    enable-background="new 0 0 1000 1000"
    xml:space="preserve"
    id="svg898"
-   sodipodi:docname="custom_icon.svg"
+   sodipodi:docname="icon_creater_custom.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><defs
    id="defs902">
 </defs><sodipodi:namedview
@@ -45,15 +45,17 @@
      rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
 <g
-   id="g896"><g
+   id="g896"
+   style="fill:#808080;fill-opacity:1"><g
      transform="translate(0.000000,511.000000) scale(0.100000,-0.100000)"
-     id="g894"><path
+     id="g894"
+     style="fill:#808080;fill-opacity:1"><path
        d="M4581.8,3430.1c-733.7-99.7-1411.2-447.4-1945.5-999.6c-444.8-457.6-726-979.1-866.6-1595.3l-40.9-179L1537,546.4c-311.9-179-700.5-444.8-905-621.2C-101.7-706.3-73.6-1312.2,698.5-1578c549.6-189.2,1577.4-179,2789.2,25.6C5420.3-1222.7,7652.1-417.4,8879.3,393c455.1,301.7,802.8,639.1,933.1,905c232.7,475.5-5.1,861.5-628.9,1020c-342.6,86.9-889.7,112.5-1406.1,66.5l-253.1-23l-196.8,186.6c-434.6,416.7-1004.7,713.3-1633.6,848.8C5463.8,3445.5,4834.9,3465.9,4581.8,3430.1z M5530.3,3010.9c613.6-107.4,1158.1-391.1,1595.2-830.9c393.7-393.7,692.8-943.4,792.5-1452.1c17.9-86.9,38.3-158.5,46-158.5c5.1,0,92.1,43.5,189.2,94.6c204.5,112.5,199.4,79.2,58.8,511.3c-86.9,258.2-194.3,493.4-311.9,680c-51.1,81.8-56.3,104.8-28.1,122.7c48.6,30.7,720.9,28.1,953.6-5.1c434.6-58.8,677.5-186.6,677.5-355.3c0-222.4-273.6-511.3-833.4-876.9C7117.8-276.8,4295.5-1163.9,2173.6-1301.9c-991.9-63.9-1669.4,86.9-1669.4,373.2c0,191.7,342.6,549.6,848.8,884.6l314.4,209.6l20.4-202c33.2-340,89.5-649.4,158.5-866.7l63.9-207.1l209.6,12.8c117.6,5.1,214.7,12.8,219.8,17.9c2.5,2.6-12.8,48.6-35.8,104.8c-23,53.7-69,196.8-102.3,317C1923,347,2211.9,1433.5,2958.4,2182.6C3635.9,2862.6,4599.7,3171.9,5530.3,3010.9z"
        id="path890"
-       style="stroke:#0000ff;stroke-opacity:1;fill:#0000ff;fill-opacity:1" /><path
+       style="stroke:#0000ff;stroke-opacity:1;fill:#808080;fill-opacity:1" /><path
        d="M8155.8-256.3c-201.9-99.7-209.6-107.4-227.5-207.1c-30.7-199.4-145.7-516.4-271-764.4c-488.3-953.6-1421.4-1551.8-2490-1595.3c-815.5-35.8-1546.7,235.2-2150,795.1l-181.5,168.7l-225-25.6c-122.7-12.8-227.5-30.7-235.2-35.8c-28.1-30.7,605.9-626.3,800.2-754.2c368.1-240.3,769.5-406.5,1214.3-503.7c301.7-66.5,999.6-66.5,1298.7,0c1199,258.2,2144.9,1089.1,2520.7,2213.9c86.9,258.2,181.5,708.2,163.6,777.2C8368-161.7,8306.6-182.2,8155.8-256.3z"
        id="path892"
-       style="fill:#0000ff;fill-opacity:1" /></g></g>
+       style="fill:#808080;fill-opacity:1" /></g></g>
 <g
    style="fill:#ffffff;fill-opacity:1;stroke-width:11.3874"
    id="g2088"
@@ -70,7 +72,7 @@
        d="m 1416.6,1984.7 c -71.8,-27.9 -127.7,-117.7 -127.7,-203.5 0,-71.8 16,-95.8 195.5,-281.3 325.2,-341.2 606.5,-656.4 915.8,-1027.5 1474.4,-1763.8 2551.8,-3585.4 2899,-4902.2 35.9,-131.7 75.8,-259.4 91.8,-283.3 16,-23.9 61.9,-53.9 105.7,-67.8 101.8,-29.9 205.5,16 251.4,113.7 29.9,63.8 29.9,77.8 -8,233.4 -125.7,530.7 -423,1262.9 -784.1,1937.3 -726.2,1354.7 -1875.5,2924.9 -3034.6,4150 -315.3,331.2 -387.1,379 -504.8,331.2 z"
        inkscape:connector-curvature="0" /></g></g><text
    xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+   style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;fill:#808080;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
    x="275.42374"
    y="381.35596"
    id="text846"><tspan
@@ -78,9 +80,9 @@
      id="tspan844"
      x="275.42374"
      y="381.35596"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:monospace;-inkscape-font-specification:monospace;fill:#0000ff;stroke:#000000;stroke-opacity:1">Github </tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:monospace;-inkscape-font-specification:monospace;fill:#808080;stroke:#000000;stroke-opacity:1;fill-opacity:1;">Github </tspan><tspan
      sodipodi:role="line"
      x="275.42374"
      y="534.06226"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:monospace;-inkscape-font-specification:monospace;fill:#0000ff;stroke:#000000;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120px;font-family:monospace;-inkscape-font-specification:monospace;fill:#808080;stroke:#000000;stroke-opacity:1;fill-opacity:1;"
      id="tspan848">Page</tspan></text></svg>
