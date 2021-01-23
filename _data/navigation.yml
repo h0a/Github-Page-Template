@@ -9,11 +9,12 @@ main:
     url: /talks/
   - title: "Teaching"
     url: /teaching/
+  - title: "CV"
+    url: /cv/
   - title: "Posts"
     url: /posts/
-  - title: "More"
-    - subtitle: "Contact"
-      url: /contact/
-    - subtitle: "Terms and Privacy Policy"
-      url: /terms/  
+  - title: "Contact"
+    url: /contact/
+  - title: "Terms and Privacy Policy"
+    url: /terms/  
   
