@@ -13,6 +13,6 @@ main:
     url: /posts/
   - title: "Contact"
     url: /contact/
-  - title: "Terms and Privacy Policy"
-    url: /terms/  
+  # - title: "Terms and Privacy Policy"
+  #   url: /terms/  
   
