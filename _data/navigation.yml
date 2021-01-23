@@ -1,5 +1,5 @@
 main:
-  - title: "About"
+  - title: "Home"
     url: /about/
   - title: "Research"
     url: /research/
@@ -11,8 +11,9 @@ main:
     url: /teaching/
   - title: "Posts"
     url: /posts/
-  - title: "Contact"
-    url: /contact/
-  - title: "Terms and Privacy Policy"
-    url: /terms/  
+  - title: "More"
+    - subtitle: "Contact"
+      url: /contact/
+    - subtitle: "Terms and Privacy Policy"
+      url: /terms/  
   
