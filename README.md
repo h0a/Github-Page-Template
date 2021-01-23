@@ -4,7 +4,7 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 
 
 ## To-do
-* Customize size/shape of profile picture
+* Customize size/shape and hover of profile picture
 
 
 ## Note

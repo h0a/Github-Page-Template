@@ -9,6 +9,8 @@ redirect_from:
 
 #### Write me an email! 
 <i class="fab fa-google"></i> [Gmail](mailto:example@gmail.com)
+
+![Alt text](./controllers_brief.svg)
 <img height="32" width="32" src="assets/icons/gmail.svg" />
 
 
