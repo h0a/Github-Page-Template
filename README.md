@@ -4,7 +4,6 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 
 
 ## To-do
-* Add Favicon
 * Customize icons on sidebar
 * Choosing items for sidebar
 * Customize size/shape of profile picture
