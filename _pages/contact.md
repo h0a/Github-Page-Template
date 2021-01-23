@@ -7,3 +7,10 @@ redirect_from:
   - /contact.html
 ---
 
+### Write me an email to
+
+
+
+
+#### See more me on
+<i class="fa fa-cloud"></i> [Cloud](https://www.w3schools.com/icons/)
