@@ -8,32 +8,20 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="fab fa-google"></i> [mail](mailto:example@gmail.com)
+<i class="si si-gmail si--white"></i> [Gmail](mailto:example@gmail.com)
 
 
 #### See more about me on
-<i class="fab fa-fw fa-twitter"></i> [Twitter](https://twitter.com/)
-<i class="fab fa-fw fa-instagram"></i> [Instagram](https://instagram.com/)
+<i class="si si-twitter"></i> [Twitter](https://twitter.com/)
+<i class="si si-instagram"></i> [Instagram](https://instagram.com/)
 
-<i class="fab fa-fw fa-github"></i> [Github](https://www.github.com)
-<i class="fab fa-fw fa-gitlab"></i> [Gitlab](https://www.gitlab.com)
-
-
-<i class="fab fa-fw fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/)
-<i class="far fa-fw fa-newspaper"></i> [Scopus](https://www.scopus.com/home.uri)
-<i class="fab fa-fw fa-orcid"></i> [ORCID](https://orcid.org/) 
-
-and
-<i class="fas fa-fw fa-university"></i> [at my institute](https://).
+<i class="si si-github"></i> [Github](https://www.github.com)
+<i class="si si-gitlab"></i> [Gitlab](https://www.gitlab.com)
 
 
-test
-<i class="si si-researchgate si--white"></i>
-<i class="si si-researchgate si--white si-2x"></i>
+<i class="si si-researchgate si--white"></i> [ResearchGate](https://www.researchgate.net/)
+<i class="si si-scopus"></i> [Scopus](https://www.scopus.com/home.uri)
+<i class="si si-orcid"></i> [ORCID](https://orcid.org/) 
 
-<div class="d-inline-block">
-      <span class="d-inline-block">Cars waiting pedestrians cross the street</span>
-      <span class="d-inline-block">
-          <i class="si si-researchgate"></i>
-      </span>
-  </div>
+and at my <i class="fas fa-fw fa-university"></i> [institute](https://).
+
