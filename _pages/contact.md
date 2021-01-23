@@ -28,4 +28,4 @@ and
 
 
 test
-<i class="si si-researchgate si--white"></i>
+<i class="si si-researchgate si--white si--2x"></i>
