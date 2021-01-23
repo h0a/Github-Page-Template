@@ -3,16 +3,16 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Posts"
-    url: /posts/
-  - title: "Contact"
-    url: /contact/
+  # - title: "Publications"
+  #   url: /publications/
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Contact"
+  #   url: /contact/
   # - title: "Terms and Privacy Policy"
   #   url: /terms/  
   
