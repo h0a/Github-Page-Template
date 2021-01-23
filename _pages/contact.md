@@ -14,6 +14,8 @@ redirect_from:
 #### See more about me on
 <i class="si si-twitter"></i> [Twitter](https://twitter.com/)
 <i class="si si-instagram"></i> [Instagram](https://instagram.com/)
+<i class="si si-linkedin"></i> [Linkedin](https://linkedin.com)
+
 
 <i class="si si-github"></i> [Github](https://www.github.com)
 <i class="si si-gitlab"></i> [Gitlab](https://www.gitlab.com)
@@ -23,5 +25,5 @@ redirect_from:
 <i class="si si-scopus"></i> [Scopus](https://www.scopus.com/home.uri)
 <i class="si si-orcid"></i> [ORCID](https://orcid.org/) 
 
-and at my <i class="fas fa-fw fa-university"></i> [institute](https://).
+and at our [institute](https://).
 
