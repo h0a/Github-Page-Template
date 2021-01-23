@@ -82,6 +82,7 @@ footer:
     - label: Privat policy
       icon: "fas fa-fw fa-user-lock"
       url: "https://thoanguye.github.io/terms/"
+  location: "Germany"
 
 
 # Collections
