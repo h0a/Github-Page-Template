@@ -19,13 +19,7 @@
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
-    <div style="float: right">
-      {% if site.minimal_mistakes_skin2 %}
-        <button type="button" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');} return false;" class="button turnlight">
-          Light on!
-        </button>
-      {% endif %}
-    </div>
+
 
     <div class="initial-content">
       {{ content }}
