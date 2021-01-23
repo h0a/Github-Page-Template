@@ -77,7 +77,7 @@ footer:
       icon: "si si-gitlab" # fab fa-fw fa-gitlab
       url: "https://www.gitlab.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "si si-github"
       url: "https://github.com/"
     - label: Privat policy
       icon: "fas fa-fw fa-user-lock"
