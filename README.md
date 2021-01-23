@@ -5,7 +5,6 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 
 ## To-do
 * Customize size/shape of profile picture
-* Contact site with 2 paragraph: write me an email on gmail, office's mail; and see more me on research gate, scopus and so on
 
 
 ## Note
