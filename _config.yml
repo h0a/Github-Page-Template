@@ -74,7 +74,7 @@ author:
 footer:
   links:
     - label: "Gitlab"
-      icon: "si si-github" # fab fa-fw fa-gitlab
+      icon: "si si-gitlab" # fab fa-fw fa-gitlab
       url: "https://www.gitlab.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
