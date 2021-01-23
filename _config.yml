@@ -73,15 +73,12 @@ author:
 
 footer:
   links:
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/"
+    - label: "Gitlab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://www.gitlab.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
     - label: Privat policy
       icon: "fas fa-fw fa-user-lock"
       url: "https://thoanguye.github.io/terms/"
