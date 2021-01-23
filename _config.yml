@@ -56,7 +56,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Contact me!"
-      icon: "fas fa-fw fa-address-book"
+      icon: "si si-googlechat"
       url : "https://thoanguye.github.io/contact/"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -80,7 +80,7 @@ footer:
       icon: "si si-github"
       url: "https://github.com/"
     - label: Privat policy
-      icon: "fas fa-fw fa-user-lock"
+      icon: "si si-gnuprivacyguard"
       url: "https://thoanguye.github.io/terms/"
   location: "Germany"
 
