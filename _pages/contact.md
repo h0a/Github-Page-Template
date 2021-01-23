@@ -33,7 +33,7 @@ test
 
 <div class="card-header">
       <span class="d-inline-block">Cars waiting pedestrians cross the street</span>
-      <span class="d-inline-block btn float-right">
-          <i class="si si-researchgate si--white si-2x"></i>
+      <span class="d-inline-block">
+          <i class="si si-researchgate"></i>
       </span>
   </div>
