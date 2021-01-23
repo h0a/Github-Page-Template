@@ -10,8 +10,8 @@ redirect_from:
 #### Write me an email! 
 <i class="fab fa-google"></i> [Gmail](mailto:example@gmail.com)
 
-![Alt text](./controllers_brief.svg)
-<img height="32" width="32" src="assets/icons/gmail.svg" />
+![Alt text](./gmail.svg)
+<img height="32" width="32" src="./gmail.svg" />
 
 
 
@@ -33,6 +33,14 @@ and
 
 #### Test icon from simple icon / svg
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/scopus.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/orcid.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/researchgate.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gitlab.svg" />
+
 
 
 (Icons by [Simple Icons](https://simpleicons.org/))
