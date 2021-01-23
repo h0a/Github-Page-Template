@@ -4,10 +4,8 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 
 
 ## To-do
-* Customize icons on sidebar
-* Choosing items for sidebar
 * Customize size/shape of profile picture
-* (Maybe) remove icons under profile picture but only Contact me! button to go to Contact site. In contect site, wirte in 2 paragraph: write me an email on gmail, office's mail; and see more me on research gate, scopus and so on
+* Contact site with 2 paragraph: write me an email on gmail, office's mail; and see more me on research gate, scopus and so on
 
 
 ## Note
