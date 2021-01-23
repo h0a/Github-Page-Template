@@ -55,7 +55,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Contact me!"
-      icon: "fab fa-fw fa-address-book"
+      icon: "fas fa-fw fa-address-book"
       url : "https://thoanguye.github.io/contact/"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -64,7 +64,7 @@ author:
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
     - label: "GitHub"
-      icon: ""/assets/icons/github.svg""
+      icon: ""#181717""
       url: "https://github.com/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
