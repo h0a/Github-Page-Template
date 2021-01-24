@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #### Write me an email! 
-<i class="si si-googlechat"></i> [Gmail](mailto:example@gmail.com), <i class="si si-minutemailer"></i> [office mail](mailto:example@gmail.com)
+<i class="si si-gmail"></i> [Gmail](mailto:example@gmail.com), <i class="si si-minutemailer"></i> [office mail](mailto:example@gmail.com)
 
 
 #### See more about me on
