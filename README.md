@@ -2,7 +2,7 @@
 
 Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-Github page built with this template is published [here](https://thoanguye.github.io/). See also [my personal page](https://teaplanetae.github.io/).
+See also [my personal page](https://teaplanetae.github.io/) built based on this template.
 
 ## Note
 * Homepage: I choose about.md as homepage. The default homepage is recent post. To change back to this default page, 
