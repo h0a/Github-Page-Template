@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Your name"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from: 
   - /md/
   - /cv.html
 ---
-## Curriculum Vitae
 
 <h3> <i class="si si-googlescholar"></i> Education</h3> 
-* Ph.D., major xx, University xx
+Ph.D., major xx, University xx
   * Date
   * Thesis
   * Advisor
@@ -25,26 +24,22 @@ M.Sc.
   * Thesis
   * Advisor
 
-
-### Work experience
-* 20xx - 20xx
+<h3> <i class="si si-googlesearchconsole"></i> Employment</h3> 
+20xx - 20xx
   * where
   * short description
   * reference
 
-
-### Honors and Awards
+<h3> <i class="si si-spreaker"></i> Honors and Awards</h3> 
 * Preis 1
 * Preis 2
 
-
-### Skills
+<h3> <i class="si si-semaphoreci"></i> Skill</h3> 
 * Programming
 * Tools
 * Languages
 
 
-
-<!-- ### Service and leadership
-* Currently signed in to 43 different slack teams -->
+<h3> <i class="si si-riotgames"></i> Service and leadership</h3> 
+* Currently signed in to xx different slack teams
 

@@ -3,10 +3,6 @@
 Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 
-## To-do
-* Find icons for university email, CV (education, work, preis, skill)
-
-
 ## Note
 * Homepage: I choose about.md as homepage. The default homepage is recent post. To change back to this default page, 
     * first, change permanlink in _pages/about.md and _data/navigation.yml to /about/ (to keep about in navbar),
