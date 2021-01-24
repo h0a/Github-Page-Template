@@ -82,9 +82,6 @@ footer:
     - label: "GitHub"
       icon: "si si-github"
       url: "https://github.com/"
-    - label: Privat policy
-      icon: "si si-gnuprivacyguard"
-      url: "https://thoanguye.github.io/terms/"
   location: "Germany"
 
 
