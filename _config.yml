@@ -57,10 +57,10 @@ author:
   links:
     - label: "Contact me!"
       icon: "si si-googlechat"
-      url : "{{ site.atom_feed.path }}{{ '/contact' }}"
-    - label: "and more."
+      url : "/contact"
+    - label: "More about me"
       icon: "si si-myspace"
-      url : "{{ site.atom_feed.path }}{{ '/contact' }}"
+      url : "/contact"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
