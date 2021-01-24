@@ -1,18 +1,32 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Your name"
 permalink: /cv/
 author_profile: true
 redirect_from: 
   - /md/
   - /cv.html
 ---
-
+## Curriculum Vitae
 
 ### Education
-<i class="si si-googlescholar"></i> B.Sc.
+<i class="si si-googlescholar"></i> Ph.D., major xx, University xx
+  * Date
+  * Thesis
+  * Advisor
+
+
+<i class="si si-googlescholar"></i> B.Sc., major xx, University xx
+  * Date
+  * Thesis
+  * Advisor
+
 
 <i class="si si-googlescholar"></i> M.Sc.
+  * Date
+  * Thesis
+  * Advisor
+
 
 ### Work experience
 * 20xx - 20xx
