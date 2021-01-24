@@ -57,10 +57,10 @@ author:
   links:
     - label: "Contact me!"
       icon: "si si-googlechat"
-      url : "https://thoanguye.github.io/contact/"
+      url : "{{ site.atom_feed.path }}{{ '/contact' }}"
     - label: "and more."
       icon: "si si-myspace"
-      url : "https://thoanguye.github.io/contact/"
+      url : "{{ site.atom_feed.path }}{{ '/contact' }}"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
