@@ -4,7 +4,7 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 
 
 ## To-do
-* Change style of posts in publications, talks, and posts
+* Find icons for university email, CV (education, work, preis, skill)
 
 
 ## Note
