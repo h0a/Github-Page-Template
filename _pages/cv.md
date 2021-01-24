@@ -9,8 +9,8 @@ redirect_from:
 ---
 ## Curriculum Vitae
 
-### Education
-<i class="si si-googlescholar"></i> Ph.D., major xx, University xx
+<div> <i class="si si-googlescholar"></i>### Education</div> 
+* Ph.D., major xx, University xx
   * Date
   * Thesis
   * Advisor
