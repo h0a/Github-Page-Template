@@ -7,7 +7,7 @@ excerpt: 'Preprinted (arXiv preprint), 20xx. Read more.'
 
 <div class="small">
    Preprinted (arXiv preprint), 20xx.
-</div> 
+</div> <br />
 
 (Abstract here) This paper is about the number 1. The number 2 is left for future work.
 
