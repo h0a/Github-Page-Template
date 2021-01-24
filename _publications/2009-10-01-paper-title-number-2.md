@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/2009-10-01-paper-title-number-2
 excerpt: 'Preprints (arXiv preprint), 20xx. Read more.'
 ---
 
