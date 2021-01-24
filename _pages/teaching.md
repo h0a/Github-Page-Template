@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /teaching.html
 ---
 
 <!-- If you have many teaching posts in /_teaching/, used layout class defined in /_includes/archive-single.html
