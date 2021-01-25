@@ -34,12 +34,25 @@ M.Sc.
 * Preis 1
 * Preis 2
 
-<h3> <i class="si si-semaphoreci"></i> Skill</h3> 
-* Programming
-* Tools
-* Languages
+<h3> <i class="si si-semaphoreci"></i> Professional skills</h3> 
+* Computer languages: C
+* Tools: Git
+* Languages: English (fluent/native)
 
 
 <h3> <i class="si si-riotgames"></i> Service and leadership</h3> 
+* Journal manuscript review work (20xx-present)
+  * Journal 1 (xx reviews)
+  * Journal 2 (1 review)
 * Currently signed in to xx different slack teams
 
+
+<h3> <i class="si si-riotgames"></i> References</h3> 
+**Prof. abc**
+Prof. of xx
+
+University xx
+Adress of university xx
+Phone (if given)
+Email
+ 
