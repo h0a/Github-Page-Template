@@ -5,7 +5,7 @@ Using [template](https://github.com/mmistakes/mm-github-pages-starter/) with the
 See also [my personal page](https://teaplanetae.github.io/) that is built based on this template.
 
 ## Note
-* Homepage: I chose /about/ as homepage. The default homepage from the [template](https://github.com/mmistakes/mm-github-pages-starter/) is a page of recent posts. To change back to this default homepage, 
+* Homepage: I chose /about/ as homepage. The default homepage from the original [template](https://github.com/mmistakes/mm-github-pages-starter/) is a page of recent posts. To change back to this default homepage, 
     * first, change permanlink in _pages/about.md and _data/navigation.yml to /about/ (to keep /about in navbar),
     * then copy default index.htlm from [here](https://github.com/mmistakes/minimal-mistakes) into root directory of your repository.
 
