@@ -47,7 +47,7 @@ M.Sc.
 * Currently signed in to xx different slack teams
 
 
-<h3> <i class="si si-riotgames"></i> References</h3> 
+<h3> <i class="si si-authy"></i> References</h3> 
 **Prof. abc**
 Prof. of xx
 
